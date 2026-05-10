@@ -1,14 +1,20 @@
 # Privacy Policy Auditor — managed-agent template
 
 name: privacy-policy-auditor
-model: claude-sonnet-4-6
+model: claude-opus-4-6
 
 system:
   file: agents/privacy-policy-auditor.md
+  append: "You are running headless. Produce files in ./out/; do not assume an open Office document."
 
 tools:
   - type: agent_toolset_20260401
-    default_config: { enabled: true }
+    default_config: { enabled: false }
+    configs:
+      - { name: read, enabled: true }
+      - { name: grep, enabled: true }
+      - { name: web_fetch, enabled: true }
+      - { name: web_search, enabled: true }
 
 skills:
   - { from_plugin: . }

@@ -1,0 +1,18 @@
+# Log Correlator — subagent
+
+name: log-correlator
+model: claude-sonnet-4-6
+
+system:
+  file: ../agents/incident-responder.md
+  append: "You are a log correlation subagent. Focus only on correlating log entries across services. Do not produce the final incident report."
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: false }
+    configs:
+      - { name: read, enabled: true }
+      - { name: grep, enabled: true }
+      - { name: bash, enabled: true }
+
+callable_agents: []

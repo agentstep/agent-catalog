@@ -1,0 +1,18 @@
+# Prior Art Researcher — subagent
+
+name: prior-art-researcher
+model: claude-sonnet-4-6
+
+system:
+  file: ../agents/rfc-writer.md
+  append: "You are a prior art research subagent. Focus only on finding and summarizing relevant prior art. Do not draft the RFC itself."
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: false }
+    configs:
+      - { name: read, enabled: true }
+      - { name: grep, enabled: true }
+      - { name: web_search, enabled: true }
+
+callable_agents: []

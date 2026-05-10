@@ -5,10 +5,21 @@ model: claude-sonnet-4-6
 
 system:
   file: agents/dependency-auditor.md
+  append: "You are running headless. Produce files in ./out/; do not assume an open Office document."
 
 tools:
   - type: agent_toolset_20260401
-    default_config: { enabled: true }
+    default_config: { enabled: false }
+    configs:
+      - { name: read, enabled: true }
+      - { name: grep, enabled: true }
+      - { name: glob, enabled: true }
+      - { name: web_fetch, enabled: true }
+      - { name: web_search, enabled: true }
+  - { type: mcp_toolset, mcp_server_name: github, default_config: { enabled: true } }
+
+mcp_servers:
+  - { type: url, name: github, url: "${GITHUB_MCP_URL}" }
 
 skills:
   - { from_plugin: . }

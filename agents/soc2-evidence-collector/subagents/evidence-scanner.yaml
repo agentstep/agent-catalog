@@ -1,0 +1,19 @@
+# Evidence Scanner — subagent
+
+name: evidence-scanner
+model: claude-sonnet-4-6
+
+system:
+  file: ../agents/soc2-evidence-collector.md
+  append: "You are an evidence scanning subagent. Focus only on collecting evidence artifacts. Do not produce the final report."
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: false }
+    configs:
+      - { name: read, enabled: true }
+      - { name: grep, enabled: true }
+      - { name: glob, enabled: true }
+      - { name: bash, enabled: true }
+
+callable_agents: []

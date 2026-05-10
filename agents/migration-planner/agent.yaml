@@ -1,14 +1,24 @@
 # Database Migration Planner — managed-agent template
 
 name: migration-planner
-model: claude-sonnet-4-6
+model: claude-opus-4-6
 
 system:
   file: agents/migration-planner.md
+  append: "You are running headless. Produce files in ./out/; do not assume an open Office document."
 
 tools:
   - type: agent_toolset_20260401
-    default_config: { enabled: true }
+    default_config: { enabled: false }
+    configs:
+      - { name: read, enabled: true }
+      - { name: grep, enabled: true }
+      - { name: glob, enabled: true }
+      - { name: write, enabled: true }
+  - { type: mcp_toolset, mcp_server_name: postgres, default_config: { enabled: true } }
+
+mcp_servers:
+  - { type: url, name: postgres, url: "${POSTGRES_MCP_URL}" }
 
 skills:
   - { from_plugin: . }
