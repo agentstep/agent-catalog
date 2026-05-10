@@ -1,0 +1,16 @@
+# Onboarding Coordinator — managed-agent template
+
+name: onboarding-coordinator
+model: claude-sonnet-4-6
+
+system:
+  file: agents/onboarding-coordinator.md
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: true }
+
+skills:
+  - { from_plugin: . }
+
+callable_agents: []

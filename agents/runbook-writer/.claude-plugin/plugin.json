@@ -1,0 +1,8 @@
+{
+  "name": "runbook-writer",
+  "version": "1.0.0",
+  "description": "Converts tribal knowledge into structured runbooks with decision trees and escalation paths",
+  "author": {
+    "name": "AgentStep"
+  }
+}

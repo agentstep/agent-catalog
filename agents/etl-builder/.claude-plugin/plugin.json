@@ -1,0 +1,8 @@
+{
+  "name": "etl-builder",
+  "version": "1.0.0",
+  "description": "Designs transformation pipelines from schema descriptions with error handling",
+  "author": {
+    "name": "AgentStep"
+  }
+}

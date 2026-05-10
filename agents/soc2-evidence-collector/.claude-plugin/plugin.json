@@ -1,0 +1,8 @@
+{
+  "name": "soc2-evidence-collector",
+  "version": "1.0.0",
+  "description": "Maps SOC 2 criteria to infra config, collects evidence artifacts, flags gaps",
+  "author": {
+    "name": "AgentStep"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "privacy-policy-auditor",
+  "version": "1.0.0",
+  "description": "Compares privacy policy against GDPR/CCPA, flags missing disclosures",
+  "author": {
+    "name": "AgentStep"
+  }
+}

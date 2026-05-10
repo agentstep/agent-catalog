@@ -1,0 +1,8 @@
+{
+  "name": "rfc-writer",
+  "version": "1.0.0",
+  "description": "Takes a problem statement, researches prior art, produces structured design doc",
+  "author": {
+    "name": "AgentStep"
+  }
+}

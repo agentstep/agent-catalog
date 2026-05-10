@@ -1,0 +1,8 @@
+{
+  "name": "migration-planner",
+  "version": "1.0.0",
+  "description": "Analyzes schema, generates migration scripts, identifies breaking changes, produces rollback plan",
+  "author": {
+    "name": "AgentStep"
+  }
+}

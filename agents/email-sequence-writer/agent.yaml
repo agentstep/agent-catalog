@@ -1,0 +1,16 @@
+# Email Sequence Writer — managed-agent template
+
+name: email-sequence-writer
+model: claude-sonnet-4-6
+
+system:
+  file: agents/email-sequence-writer.md
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: true }
+
+skills:
+  - { from_plugin: . }
+
+callable_agents: []

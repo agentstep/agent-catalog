@@ -1,0 +1,16 @@
+# Expense Categorizer — managed-agent template
+
+name: expense-categorizer
+model: claude-sonnet-4-6
+
+system:
+  file: agents/expense-categorizer.md
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: true }
+
+skills:
+  - { from_plugin: . }
+
+callable_agents: []

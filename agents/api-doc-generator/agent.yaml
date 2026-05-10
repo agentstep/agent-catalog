@@ -1,0 +1,16 @@
+# API Doc Generator — managed-agent template
+
+name: api-doc-generator
+model: claude-sonnet-4-6
+
+system:
+  file: agents/api-doc-generator.md
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: true }
+
+skills:
+  - { from_plugin: . }
+
+callable_agents: []

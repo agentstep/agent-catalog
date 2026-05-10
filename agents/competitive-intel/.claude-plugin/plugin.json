@@ -1,0 +1,8 @@
+{
+  "name": "competitive-intel",
+  "version": "1.0.0",
+  "description": "Monitors competitor sites/changelogs, produces comparison matrices",
+  "author": {
+    "name": "AgentStep"
+  }
+}

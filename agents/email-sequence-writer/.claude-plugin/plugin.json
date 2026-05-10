@@ -1,0 +1,8 @@
+{
+  "name": "email-sequence-writer",
+  "version": "1.0.0",
+  "description": "Generates multi-step email campaigns with subject line variants and timing",
+  "author": {
+    "name": "AgentStep"
+  }
+}

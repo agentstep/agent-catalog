@@ -1,0 +1,8 @@
+{
+  "name": "expense-categorizer",
+  "version": "1.0.0",
+  "description": "Processes expense reports, categorizes to GL accounts, flags policy violations",
+  "author": {
+    "name": "AgentStep"
+  }
+}

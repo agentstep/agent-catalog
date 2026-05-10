@@ -1,0 +1,8 @@
+{
+  "name": "dependency-auditor",
+  "version": "1.0.0",
+  "description": "Scans package manifests, cross-refs CVE databases, prioritizes by exploitability",
+  "author": {
+    "name": "AgentStep"
+  }
+}

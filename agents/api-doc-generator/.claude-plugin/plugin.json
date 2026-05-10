@@ -1,0 +1,8 @@
+{
+  "name": "api-doc-generator",
+  "version": "1.0.0",
+  "description": "Reads OpenAPI specs or source code, generates docs with examples and auth guides",
+  "author": {
+    "name": "AgentStep"
+  }
+}

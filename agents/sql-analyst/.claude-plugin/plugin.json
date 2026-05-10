@@ -1,0 +1,8 @@
+{
+  "name": "sql-analyst",
+  "version": "1.0.0",
+  "description": "Takes natural language questions, writes/executes SQL, explains results, exports CSV",
+  "author": {
+    "name": "AgentStep"
+  }
+}

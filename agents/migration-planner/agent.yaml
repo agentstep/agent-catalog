@@ -1,0 +1,16 @@
+# Database Migration Planner — managed-agent template
+
+name: migration-planner
+model: claude-sonnet-4-6
+
+system:
+  file: agents/migration-planner.md
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: true }
+
+skills:
+  - { from_plugin: . }
+
+callable_agents: []

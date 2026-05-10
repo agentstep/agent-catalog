@@ -1,0 +1,8 @@
+{
+  "name": "ticket-triager",
+  "version": "1.0.0",
+  "description": "Classifies tickets by category/priority/SLA, routes to correct queue, drafts responses",
+  "author": {
+    "name": "AgentStep"
+  }
+}

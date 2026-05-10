@@ -1,0 +1,8 @@
+{
+  "name": "pr-reviewer",
+  "version": "1.0.0",
+  "description": "Reviews PRs for bugs, style, security, and test gaps; posts inline fix suggestions",
+  "author": {
+    "name": "AgentStep"
+  }
+}

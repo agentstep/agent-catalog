@@ -1,0 +1,8 @@
+{
+  "name": "deploy-orchestrator",
+  "version": "1.0.0",
+  "description": "Generates deployment scripts, validates env vars, produces pre-deploy checklists",
+  "author": {
+    "name": "AgentStep"
+  }
+}

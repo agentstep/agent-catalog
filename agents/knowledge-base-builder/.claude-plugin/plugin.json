@@ -1,0 +1,8 @@
+{
+  "name": "knowledge-base-builder",
+  "version": "1.0.0",
+  "description": "Analyzes resolved tickets to extract patterns, generates FAQ articles",
+  "author": {
+    "name": "AgentStep"
+  }
+}

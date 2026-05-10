@@ -1,0 +1,8 @@
+{
+  "name": "invoice-processor",
+  "version": "1.0.0",
+  "description": "Extracts data from invoice PDFs, matches against POs, outputs journal entries",
+  "author": {
+    "name": "AgentStep"
+  }
+}

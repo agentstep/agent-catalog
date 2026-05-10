@@ -1,0 +1,8 @@
+{
+  "name": "incident-responder",
+  "version": "1.0.0",
+  "description": "Correlates alerts from logs/metrics, identifies root cause, drafts post-incident report",
+  "author": {
+    "name": "AgentStep"
+  }
+}
