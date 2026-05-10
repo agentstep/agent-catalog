@@ -1,0 +1,8 @@
+{
+  "name": "contract-reviewer",
+  "version": "1.0.0",
+  "description": "Reviews contracts for risk clauses, redlines issues, and generates amendment suggestions",
+  "author": {
+    "name": "AgentStep"
+  }
+}

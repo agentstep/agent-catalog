@@ -1,4 +1,4 @@
-# Contract Reviewer — managed agent template
+# Contract Reviewer — managed-agent template
 
 Reviews contracts for risk clauses, redlines issues, and generates amendment suggestions with a structured review report.
 
