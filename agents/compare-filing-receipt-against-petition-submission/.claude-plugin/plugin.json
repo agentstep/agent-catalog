@@ -1,0 +1,6 @@
+{
+  "name": "compare-filing-receipt-against-petition-submission",
+  "version": "1.0.0",
+  "description": "Compares a USCIS filing receipt notice against the original petition submission documents to identify discrepancies and assess impact.",
+  "author": { "name": "AgentStep" }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "extract-filing-requirements-from-regulatory-guidance",
+  "version": "1.0.0",
+  "description": "Reviews regulatory guidance documents to extract filing requirements, evidentiary standards, and procedural changes.",
+  "author": { "name": "AgentStep" }
+}

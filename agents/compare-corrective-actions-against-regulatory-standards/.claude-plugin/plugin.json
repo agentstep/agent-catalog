@@ -1,0 +1,6 @@
+{
+  "name": "compare-corrective-actions-against-regulatory-standards",
+  "version": "1.0.0",
+  "description": "Reviews corrective action plans against applicable regulatory standards to assess compliance and identify remediation priorities.",
+  "author": { "name": "AgentStep" }
+}

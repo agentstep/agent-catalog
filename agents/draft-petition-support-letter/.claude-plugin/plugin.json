@@ -1,0 +1,6 @@
+{
+  "name": "draft-petition-support-letter",
+  "version": "1.0.0",
+  "description": "Drafts a comprehensive expert opinion letter in support of an EB-1A Extraordinary Ability petition.",
+  "author": { "name": "AgentStep" }
+}

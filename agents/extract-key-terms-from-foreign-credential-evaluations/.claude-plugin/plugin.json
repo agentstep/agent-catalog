@@ -1,0 +1,6 @@
+{
+  "name": "extract-key-terms-from-foreign-credential-evaluations",
+  "version": "1.0.0",
+  "description": "Reviews foreign credential evaluation reports and produces a structured summary for immigration petitions.",
+  "author": { "name": "AgentStep" }
+}

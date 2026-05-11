@@ -1,0 +1,6 @@
+{
+  "name": "draft-response-to-notice-of-inspection",
+  "version": "1.0.0",
+  "description": "Prepares a response package to an immigration agency Notice of Inspection concerning I-9 records.",
+  "author": { "name": "AgentStep" }
+}

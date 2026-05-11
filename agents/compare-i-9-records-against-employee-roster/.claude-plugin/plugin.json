@@ -1,0 +1,6 @@
+{
+  "name": "compare-i-9-records-against-employee-roster",
+  "version": "1.0.0",
+  "description": "Compares an employee roster against an I-9 record log to identify all compliance gaps and discrepancies.",
+  "author": { "name": "AgentStep" }
+}

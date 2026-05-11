@@ -1,0 +1,6 @@
+{
+  "name": "compare-draft-petition-against-filing-checklist",
+  "version": "1.0.0",
+  "description": "Reviews a draft immigration petition package against a filing checklist to identify completeness and accuracy issues before submission.",
+  "author": { "name": "AgentStep" }
+}

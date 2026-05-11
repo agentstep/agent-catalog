@@ -1,0 +1,22 @@
+# Extract Key Terms from Foreign Credential Evaluations — managed-agent template
+
+name: extract-key-terms-from-foreign-credential-evaluations
+model: claude-sonnet-4-6
+
+system:
+  file: agents/extract-key-terms-from-foreign-credential-evaluations.md
+  append: "You are running headless. Produce files in ./out/; do not assume an open Office document."
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: false }
+    configs:
+      - { name: read, enabled: true }
+      - { name: grep, enabled: true }
+      - { name: glob, enabled: true }
+      - { name: write, enabled: true }
+
+skills:
+  - { from_plugin: . }
+
+callable_agents: []

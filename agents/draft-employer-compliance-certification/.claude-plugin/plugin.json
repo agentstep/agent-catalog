@@ -1,0 +1,6 @@
+{
+  "name": "draft-employer-compliance-certification",
+  "version": "1.0.0",
+  "description": "Drafts a comprehensive Employer Compliance Certification for USCIS in response to an FDNS site visit and RFE.",
+  "author": { "name": "AgentStep" }
+}

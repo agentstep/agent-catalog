@@ -1,0 +1,6 @@
+{
+  "name": "extract-deficiencies-from-internal-audit-report",
+  "version": "1.0.0",
+  "description": "Extracts every compliance deficiency from an internal immigration compliance audit report and produces a structured deficiency matrix.",
+  "author": { "name": "AgentStep" }
+}

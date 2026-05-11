@@ -1,0 +1,6 @@
+{
+  "name": "draft-labor-condition-application",
+  "version": "1.0.0",
+  "description": "Prepares a Labor Condition Application preparation memorandum for multiple H-1B beneficiaries.",
+  "author": { "name": "AgentStep" }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "draft-motion-to-reopen-petition",
+  "version": "1.0.0",
+  "description": "Drafts a Motion to Reopen removal proceedings for filing in Immigration Court.",
+  "author": { "name": "AgentStep" }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "identify-issues-in-i-9-forms",
+  "version": "1.0.0",
+  "description": "Conducts a comprehensive I-9 compliance audit to identify every deficiency, classify it, and quantify penalty exposure.",
+  "author": { "name": "AgentStep" }
+}
