@@ -2,6 +2,7 @@
 
 name: compare-draft-petition-against-filing-checklist
 model: claude-sonnet-4-6
+category: legal
 
 system:
   file: agents/compare-draft-petition-against-filing-checklist.md

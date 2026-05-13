@@ -2,6 +2,7 @@
 
 name: extract-key-terms-from-foreign-credential-evaluations
 model: claude-sonnet-4-6
+category: legal
 
 system:
   file: agents/extract-key-terms-from-foreign-credential-evaluations.md

@@ -2,6 +2,7 @@
 
 name: compare-filing-receipt-against-petition-submission
 model: claude-sonnet-4-6
+category: legal
 
 system:
   file: agents/compare-filing-receipt-against-petition-submission.md

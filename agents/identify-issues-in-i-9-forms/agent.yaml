@@ -2,6 +2,7 @@
 
 name: identify-issues-in-i-9-forms
 model: claude-sonnet-4-6
+category: legal
 
 system:
   file: agents/identify-issues-in-i-9-forms.md

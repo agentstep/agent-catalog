@@ -2,6 +2,7 @@
 
 name: extract-filing-requirements-from-regulatory-guidance
 model: claude-sonnet-4-6
+category: legal
 
 system:
   file: agents/extract-filing-requirements-from-regulatory-guidance.md

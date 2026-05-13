@@ -2,6 +2,7 @@
 
 name: compare-i-9-records-against-employee-roster
 model: claude-sonnet-4-6
+category: legal
 
 system:
   file: agents/compare-i-9-records-against-employee-roster.md

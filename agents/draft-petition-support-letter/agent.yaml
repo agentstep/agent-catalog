@@ -2,6 +2,7 @@
 
 name: draft-petition-support-letter
 model: claude-sonnet-4-6
+category: legal
 
 system:
   file: agents/draft-petition-support-letter.md

@@ -2,6 +2,7 @@
 
 name: draft-labor-condition-application
 model: claude-sonnet-4-6
+category: legal
 
 system:
   file: agents/draft-labor-condition-application.md
