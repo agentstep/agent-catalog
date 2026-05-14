@@ -1,6 +1,7 @@
 # Onboarding Coordinator — managed-agent template
 
 name: onboarding-coordinator
+category: ops
 model: claude-sonnet-4-6
 
 system:

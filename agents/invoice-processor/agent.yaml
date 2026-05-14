@@ -1,6 +1,7 @@
 # Invoice Processor — managed-agent template
 
 name: invoice-processor
+category: finance
 model: claude-sonnet-4-6
 
 system:

@@ -1,6 +1,7 @@
 # SQL Analyst — managed-agent template
 
 name: sql-analyst
+category: data
 model: claude-sonnet-4-6
 
 system:

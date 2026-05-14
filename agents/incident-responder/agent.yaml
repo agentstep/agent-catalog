@@ -1,6 +1,7 @@
 # Incident Responder — managed-agent template
 
 name: incident-responder
+category: ops
 model: claude-opus-4-6
 
 system:

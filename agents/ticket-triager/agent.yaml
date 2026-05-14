@@ -1,6 +1,7 @@
 # Ticket Triager — managed-agent template
 
 name: ticket-triager
+category: support
 model: claude-sonnet-4-6
 
 system:

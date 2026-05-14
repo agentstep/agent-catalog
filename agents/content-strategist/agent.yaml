@@ -1,6 +1,7 @@
 # Content Strategist — managed-agent template
 
 name: content-strategist
+category: creative
 model: claude-sonnet-4-6
 
 system:

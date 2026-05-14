@@ -1,6 +1,7 @@
 # Competitive Intelligence — managed-agent template
 
 name: competitive-intel
+category: research
 model: claude-sonnet-4-6
 
 system:

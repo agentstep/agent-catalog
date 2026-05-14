@@ -1,6 +1,7 @@
 # PR Reviewer — managed-agent template
 
 name: pr-reviewer
+category: engineering
 model: claude-opus-4-6
 
 system:

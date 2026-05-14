@@ -1,6 +1,7 @@
 # RFC Writer — managed-agent template
 
 name: rfc-writer
+category: research
 model: claude-opus-4-6
 
 system:

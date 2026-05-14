@@ -1,6 +1,7 @@
 # Contract Reviewer — managed-agent template
 
 name: contract-reviewer
+category: legal
 model: claude-sonnet-4-6
 
 system:

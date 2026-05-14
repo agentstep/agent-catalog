@@ -1,6 +1,7 @@
 # API Doc Generator — managed-agent template
 
 name: api-doc-generator
+category: engineering
 model: claude-sonnet-4-6
 
 system:

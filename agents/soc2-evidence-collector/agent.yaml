@@ -1,6 +1,7 @@
 # SOC 2 Evidence Collector — managed-agent template
 
 name: soc2-evidence-collector
+category: security
 model: claude-opus-4-6
 
 system:

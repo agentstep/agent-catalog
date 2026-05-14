@@ -1,6 +1,7 @@
 # Knowledge Base Builder — managed-agent template
 
 name: knowledge-base-builder
+category: support
 model: claude-sonnet-4-6
 
 system:

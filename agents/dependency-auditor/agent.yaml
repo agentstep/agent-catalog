@@ -1,6 +1,7 @@
 # Dependency Auditor — managed-agent template
 
 name: dependency-auditor
+category: security
 model: claude-sonnet-4-6
 
 system:

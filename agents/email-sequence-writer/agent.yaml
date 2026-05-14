@@ -1,6 +1,7 @@
 # Email Sequence Writer — managed-agent template
 
 name: email-sequence-writer
+category: creative
 model: claude-sonnet-4-6
 
 system:

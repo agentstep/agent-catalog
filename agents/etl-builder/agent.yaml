@@ -1,6 +1,7 @@
 # ETL Pipeline Builder — managed-agent template
 
 name: etl-builder
+category: data
 model: claude-sonnet-4-6
 
 system:

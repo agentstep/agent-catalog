@@ -1,6 +1,7 @@
 # Deploy Orchestrator — managed-agent template
 
 name: deploy-orchestrator
+category: ops
 model: claude-sonnet-4-6
 
 system:

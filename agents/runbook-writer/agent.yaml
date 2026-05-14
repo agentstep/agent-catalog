@@ -1,6 +1,7 @@
 # Runbook Writer — managed-agent template
 
 name: runbook-writer
+category: ops
 model: claude-sonnet-4-6
 
 system:

@@ -1,6 +1,7 @@
 # Privacy Policy Auditor — managed-agent template
 
 name: privacy-policy-auditor
+category: legal
 model: claude-opus-4-6
 
 system:
