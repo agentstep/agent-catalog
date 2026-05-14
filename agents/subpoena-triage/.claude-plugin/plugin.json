@@ -1,0 +1,8 @@
+{
+  "name": "subpoena-triage",
+  "version": "1.0.0",
+  "description": "Classifies, scopes, and plans compliance with a new subpoena",
+  "author": {
+    "name": "Anthropic"
+  }
+}

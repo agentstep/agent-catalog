@@ -1,0 +1,8 @@
+{
+  "name": "community-skill-recommender",
+  "version": "1.0.0",
+  "description": "Suggest community skills based on recent activity in other plugins",
+  "author": {
+    "name": "Anthropic"
+  }
+}

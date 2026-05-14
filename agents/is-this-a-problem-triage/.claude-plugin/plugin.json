@@ -1,0 +1,8 @@
+{
+  "name": "is-this-a-problem-triage",
+  "version": "1.0.0",
+  "description": "Fast answer for the quick Slack question — pattern-matches your calibration",
+  "author": {
+    "name": "Anthropic"
+  }
+}

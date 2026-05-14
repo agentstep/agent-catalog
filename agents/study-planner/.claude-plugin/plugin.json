@@ -1,0 +1,8 @@
+{
+  "name": "study-planner",
+  "version": "1.0.0",
+  "description": "Long-term study plan with scheduled sessions, adaptive to session history",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dpa-reviewer",
+  "version": "1.0.0",
+  "description": "Reviews a DPA against your playbook as controller or processor",
+  "author": {
+    "name": "Anthropic"
+  }
+}

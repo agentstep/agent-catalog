@@ -1,0 +1,8 @@
+{
+  "name": "demand-letter-drafter",
+  "version": "1.0.0",
+  "description": "Drafts a demand with FRE 408 awareness and a send gate",
+  "author": {
+    "name": "Anthropic"
+  }
+}

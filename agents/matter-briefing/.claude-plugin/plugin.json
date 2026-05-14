@@ -1,0 +1,8 @@
+{
+  "name": "matter-briefing",
+  "version": "1.0.0",
+  "description": "Deep briefing on one matter — ready for a GC or outside counsel call",
+  "author": {
+    "name": "Anthropic"
+  }
+}

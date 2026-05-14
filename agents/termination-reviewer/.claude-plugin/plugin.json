@@ -1,0 +1,8 @@
+{
+  "name": "termination-reviewer",
+  "version": "1.0.0",
+  "description": "Runs a proposed termination against jurisdiction-specific risk flags",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "worker-classification-screener",
+  "version": "1.0.0",
+  "description": "Tests a proposed engagement against the controlling state test",
+  "author": {
+    "name": "Anthropic"
+  }
+}

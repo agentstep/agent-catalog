@@ -1,0 +1,8 @@
+{
+  "name": "trademark-clearance-screener",
+  "version": "1.0.0",
+  "description": "First-pass clearance with knockout check and confusion heuristics",
+  "author": {
+    "name": "Anthropic"
+  }
+}

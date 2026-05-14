@@ -1,0 +1,8 @@
+{
+  "name": "legal-writing-critic",
+  "version": "1.0.0",
+  "description": "Structural feedback on a draft — never rewrites",
+  "author": {
+    "name": "Anthropic"
+  }
+}

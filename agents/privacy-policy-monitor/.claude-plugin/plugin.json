@@ -1,0 +1,8 @@
+{
+  "name": "privacy-policy-monitor",
+  "version": "1.0.0",
+  "description": "Sweeps saved PIAs, DPA reviews, and triage results for policy drift",
+  "author": {
+    "name": "Anthropic"
+  }
+}

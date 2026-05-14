@@ -1,0 +1,8 @@
+{
+  "name": "pia-generator",
+  "version": "1.0.0",
+  "description": "Generates a Privacy Impact Assessment in house format for a new feature or activity",
+  "author": {
+    "name": "Anthropic"
+  }
+}

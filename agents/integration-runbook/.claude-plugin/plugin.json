@@ -1,0 +1,8 @@
+{
+  "name": "integration-runbook",
+  "version": "1.0.0",
+  "description": "Phased post-closing integration plan with consent tracking and weekly status",
+  "author": {
+    "name": "Anthropic"
+  }
+}

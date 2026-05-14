@@ -1,0 +1,8 @@
+{
+  "name": "brief-section-drafter",
+  "version": "1.0.0",
+  "description": "Drafts a brief section in house style, consistent with case theory",
+  "author": {
+    "name": "Anthropic"
+  }
+}

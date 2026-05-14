@@ -1,0 +1,8 @@
+{
+  "name": "clinic-deadline-tracker",
+  "version": "1.0.0",
+  "description": "Add, report, update, and close case deadlines with malpractice-aware warnings",
+  "author": {
+    "name": "Anthropic"
+  }
+}

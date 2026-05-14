@@ -1,0 +1,8 @@
+{
+  "name": "ai-reg-gap-checker",
+  "version": "1.0.0",
+  "description": "Diffs a new AI regulation against your current governance posture",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "board-consent-drafter",
+  "version": "1.0.0",
+  "description": "Drafts unanimous written consents in house format with precedent search",
+  "author": {
+    "name": "Anthropic"
+  }
+}

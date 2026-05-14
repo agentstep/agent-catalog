@@ -1,0 +1,8 @@
+{
+  "name": "privacy-reg-gap-checker",
+  "version": "1.0.0",
+  "description": "Diffs a new or changed regulation against current privacy policy and practice",
+  "author": {
+    "name": "Anthropic"
+  }
+}

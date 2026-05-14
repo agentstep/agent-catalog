@@ -1,0 +1,8 @@
+{
+  "name": "policy-diff",
+  "version": "1.0.0",
+  "description": "Diffs a specific regulatory change against the indexed policy library",
+  "author": {
+    "name": "Anthropic"
+  }
+}

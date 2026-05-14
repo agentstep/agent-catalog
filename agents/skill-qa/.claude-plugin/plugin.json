@@ -1,0 +1,8 @@
+{
+  "name": "skill-qa",
+  "version": "1.0.0",
+  "description": "Evaluate a skill against the Legal Skill Design Framework",
+  "author": {
+    "name": "Anthropic"
+  }
+}

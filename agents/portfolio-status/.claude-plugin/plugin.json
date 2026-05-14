@@ -1,0 +1,8 @@
+{
+  "name": "portfolio-status",
+  "version": "1.0.0",
+  "description": "Risk distribution, upcoming deadlines, stale matters",
+  "author": {
+    "name": "Anthropic"
+  }
+}

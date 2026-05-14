@@ -1,0 +1,8 @@
+{
+  "name": "amendment-tracer",
+  "version": "1.0.0",
+  "description": "Traces how a contract has changed across its base agreement and every amendment",
+  "author": {
+    "name": "Anthropic"
+  }
+}

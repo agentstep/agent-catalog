@@ -1,0 +1,8 @@
+{
+  "name": "vendor-agreement-reviewer",
+  "version": "1.0.0",
+  "description": "Reviews a vendor MSA against your playbook and produces a redline memo",
+  "author": {
+    "name": "Anthropic"
+  }
+}

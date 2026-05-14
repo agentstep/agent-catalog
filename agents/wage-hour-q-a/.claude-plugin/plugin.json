@@ -1,0 +1,8 @@
+{
+  "name": "wage-hour-q-a",
+  "version": "1.0.0",
+  "description": "Jurisdiction-aware employment Q&A for the \"quick question\" channel",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "community-skill-updater",
+  "version": "1.0.0",
+  "description": "Check for updates to installed community skills",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,23 @@
+# PIA Generator — managed-agent template
+
+name: pia-generator
+model: claude-sonnet-4-6
+category: legal
+
+system:
+  file: agents/pia-generator.md
+  append: "You are running headless. Produce files in ./out/; do not assume an open Office document."
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: false }
+    configs:
+      - { name: read, enabled: true }
+      - { name: grep, enabled: true }
+      - { name: glob, enabled: true }
+      - { name: write, enabled: true }
+
+skills:
+  - { from_plugin: . }
+
+callable_agents: []

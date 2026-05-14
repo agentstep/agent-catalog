@@ -1,0 +1,8 @@
+{
+  "name": "bar-prep-coach",
+  "version": "1.0.0",
+  "description": "Jurisdiction-aware MBE and essay practice targeted at weak subjects",
+  "author": {
+    "name": "Anthropic"
+  }
+}

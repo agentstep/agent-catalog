@@ -1,0 +1,8 @@
+{
+  "name": "demand-received-triage",
+  "version": "1.0.0",
+  "description": "Triages an inbound demand — options, portfolio cross-check, handoff",
+  "author": {
+    "name": "Anthropic"
+  }
+}

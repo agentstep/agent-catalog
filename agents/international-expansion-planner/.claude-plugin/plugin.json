@@ -1,0 +1,8 @@
+{
+  "name": "international-expansion-planner",
+  "version": "1.0.0",
+  "description": "Kicks off EOR-vs-entity planning and outside-counsel briefing for a new country",
+  "author": {
+    "name": "Anthropic"
+  }
+}

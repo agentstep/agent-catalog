@@ -1,0 +1,8 @@
+{
+  "name": "outline-builder",
+  "version": "1.0.0",
+  "description": "Build or extend an outline in your format from class notes and casebook",
+  "author": {
+    "name": "Anthropic"
+  }
+}

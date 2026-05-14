@@ -1,0 +1,8 @@
+{
+  "name": "fto-triager",
+  "version": "1.0.0",
+  "description": "Structured first look at potentially blocking patents — triage, not an opinion",
+  "author": {
+    "name": "Anthropic"
+  }
+}

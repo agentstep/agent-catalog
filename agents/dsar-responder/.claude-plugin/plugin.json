@@ -1,0 +1,8 @@
+{
+  "name": "dsar-responder",
+  "version": "1.0.0",
+  "description": "Drafts DSAR acknowledgments and substantive responses within statutory timelines",
+  "author": {
+    "name": "Anthropic"
+  }
+}

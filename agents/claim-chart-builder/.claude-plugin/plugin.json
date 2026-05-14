@@ -1,0 +1,8 @@
+{
+  "name": "claim-chart-builder",
+  "version": "1.0.0",
+  "description": "Element-by-element claim chart, patent or civil cause of action",
+  "author": {
+    "name": "Anthropic"
+  }
+}

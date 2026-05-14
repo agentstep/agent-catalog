@@ -1,0 +1,8 @@
+{
+  "name": "demand-intake",
+  "version": "1.0.0",
+  "description": "Pre-drafting context gathering — parties, facts, basis, leverage, privilege",
+  "author": {
+    "name": "Anthropic"
+  }
+}

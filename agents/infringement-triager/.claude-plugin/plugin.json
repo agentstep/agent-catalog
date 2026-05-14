@@ -1,0 +1,8 @@
+{
+  "name": "infringement-triager",
+  "version": "1.0.0",
+  "description": "Triage across TM / copyright / patent / trade secret — factors, not a finding",
+  "author": {
+    "name": "Anthropic"
+  }
+}

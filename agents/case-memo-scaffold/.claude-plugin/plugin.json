@@ -1,0 +1,8 @@
+{
+  "name": "case-memo-scaffold",
+  "version": "1.0.0",
+  "description": "IRAC-scaffolded case analysis memo with research gaps flagged",
+  "author": {
+    "name": "Anthropic"
+  }
+}

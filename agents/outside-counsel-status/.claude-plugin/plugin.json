@@ -1,0 +1,8 @@
+{
+  "name": "outside-counsel-status",
+  "version": "1.0.0",
+  "description": "Generates weekly status-request drafts across the active portfolio",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "hire-reviewer",
+  "version": "1.0.0",
+  "description": "Reviews offer letters and restrictive covenants with a jurisdiction check",
+  "author": {
+    "name": "Anthropic"
+  }
+}

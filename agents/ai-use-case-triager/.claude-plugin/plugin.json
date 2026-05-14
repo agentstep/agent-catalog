@@ -1,0 +1,8 @@
+{
+  "name": "ai-use-case-triager",
+  "version": "1.0.0",
+  "description": "Classifies proposed AI use cases against your registry",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "gap-tracker",
+  "version": "1.0.0",
+  "description": "Open gaps tracker — what's flagged and not yet closed",
+  "author": {
+    "name": "Anthropic"
+  }
+}

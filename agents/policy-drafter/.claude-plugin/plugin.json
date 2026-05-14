@@ -1,0 +1,8 @@
+{
+  "name": "policy-drafter",
+  "version": "1.0.0",
+  "description": "Drafts employment policies with state supplements where law differs",
+  "author": {
+    "name": "Anthropic"
+  }
+}

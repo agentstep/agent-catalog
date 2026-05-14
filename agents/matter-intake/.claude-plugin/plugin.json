@@ -1,0 +1,8 @@
+{
+  "name": "matter-intake",
+  "version": "1.0.0",
+  "description": "Uniform intake for a new matter — writes matter.md, history.md, appends to log",
+  "author": {
+    "name": "Anthropic"
+  }
+}

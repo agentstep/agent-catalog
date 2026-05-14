@@ -1,0 +1,8 @@
+{
+  "name": "skill-installer",
+  "version": "1.0.0",
+  "description": "Install a community skill with trust checks and skills-QA",
+  "author": {
+    "name": "Anthropic"
+  }
+}

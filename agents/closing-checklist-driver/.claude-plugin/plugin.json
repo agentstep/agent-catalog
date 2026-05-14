@@ -1,0 +1,8 @@
+{
+  "name": "closing-checklist-driver",
+  "version": "1.0.0",
+  "description": "Tracks every condition, consent, document, and filing blocking close",
+  "author": {
+    "name": "Anthropic"
+  }
+}

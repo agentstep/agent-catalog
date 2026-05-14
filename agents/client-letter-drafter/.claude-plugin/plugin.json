@@ -1,0 +1,8 @@
+{
+  "name": "client-letter-drafter",
+  "version": "1.0.0",
+  "description": "Routine client correspondence — appointment confirms, doc requests, updates",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "case-briefer",
+  "version": "1.0.0",
+  "description": "Brief a case in your preferred format",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "legal-hold",
+  "version": "1.0.0",
+  "description": "Issue, refresh, release, or report on legal holds",
+  "author": {
+    "name": "Anthropic"
+  }
+}

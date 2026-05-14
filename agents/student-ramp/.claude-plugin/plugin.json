@@ -1,0 +1,8 @@
+{
+  "name": "student-ramp",
+  "version": "1.0.0",
+  "description": "Semester onboarding — clinic procedures, tool walkthrough, practice exercises",
+  "author": {
+    "name": "Anthropic"
+  }
+}

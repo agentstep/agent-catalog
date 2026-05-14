@@ -1,0 +1,8 @@
+{
+  "name": "supervisor-review-queue",
+  "version": "1.0.0",
+  "description": "Professor's review queue (when formal review supervision is configured)",
+  "author": {
+    "name": "Anthropic"
+  }
+}

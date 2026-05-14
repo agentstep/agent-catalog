@@ -1,0 +1,8 @@
+{
+  "name": "oss-compliance-checker",
+  "version": "1.0.0",
+  "description": "Classifies open source licenses against your deployment model",
+  "author": {
+    "name": "Anthropic"
+  }
+}

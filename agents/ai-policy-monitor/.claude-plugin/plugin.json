@@ -1,0 +1,8 @@
+{
+  "name": "ai-policy-monitor",
+  "version": "1.0.0",
+  "description": "Sweeps saved AIAs, triage results, and vendor reviews for AI-policy drift",
+  "author": {
+    "name": "Anthropic"
+  }
+}

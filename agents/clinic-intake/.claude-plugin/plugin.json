@@ -1,0 +1,8 @@
+{
+  "name": "clinic-intake",
+  "version": "1.0.0",
+  "description": "Structured client intake with cross-area issue spotting and conflict flags",
+  "author": {
+    "name": "Anthropic"
+  }
+}

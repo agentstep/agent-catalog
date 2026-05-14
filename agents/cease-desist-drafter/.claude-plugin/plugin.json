@@ -1,0 +1,8 @@
+{
+  "name": "cease-desist-drafter",
+  "version": "1.0.0",
+  "description": "Drafts or triages a C&D, calibrated to your enforcement posture",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "entity-compliance-tracker",
+  "version": "1.0.0",
+  "description": "Computes filing deadlines across jurisdictions and entity types, runs health audits",
+  "author": {
+    "name": "Anthropic"
+  }
+}

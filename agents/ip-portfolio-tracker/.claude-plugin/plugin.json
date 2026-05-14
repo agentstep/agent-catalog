@@ -1,0 +1,8 @@
+{
+  "name": "ip-portfolio-tracker",
+  "version": "1.0.0",
+  "description": "Registrations, renewals, maintenance fees, use declarations",
+  "author": {
+    "name": "Anthropic"
+  }
+}

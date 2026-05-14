@@ -1,0 +1,8 @@
+{
+  "name": "exam-forecaster",
+  "version": "1.0.0",
+  "description": "Analyze past exams from the same professor; forecast likely emphases",
+  "author": {
+    "name": "Anthropic"
+  }
+}

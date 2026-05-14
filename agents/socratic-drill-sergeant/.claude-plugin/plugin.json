@@ -1,0 +1,8 @@
+{
+  "name": "socratic-drill-sergeant",
+  "version": "1.0.0",
+  "description": "It asks, you answer, it pushes back — does not give you the answer",
+  "author": {
+    "name": "Anthropic"
+  }
+}

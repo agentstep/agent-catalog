@@ -1,0 +1,8 @@
+{
+  "name": "privacy-triager",
+  "version": "1.0.0",
+  "description": "Decides whether a processing activity needs a PIA, a mandatory GDPR DPIA, or can proceed",
+  "author": {
+    "name": "Anthropic"
+  }
+}

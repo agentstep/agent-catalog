@@ -1,0 +1,8 @@
+{
+  "name": "nda-triager",
+  "version": "1.0.0",
+  "description": "GREEN/YELLOW/RED triage of inbound NDAs so only the hard ones hit a lawyer's desk",
+  "author": {
+    "name": "Anthropic"
+  }
+}

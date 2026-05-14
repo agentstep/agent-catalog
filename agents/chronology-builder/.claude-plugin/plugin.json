@@ -1,0 +1,8 @@
+{
+  "name": "chronology-builder",
+  "version": "1.0.0",
+  "description": "Builds or updates a chronology from declared sources and uploads",
+  "author": {
+    "name": "Anthropic"
+  }
+}

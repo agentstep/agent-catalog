@@ -1,0 +1,8 @@
+{
+  "name": "policy-redrafter",
+  "version": "1.0.0",
+  "description": "Marked-up policy redraft closing a gap — a proposal for the policy owner's review, not a direct edit to source documents",
+  "author": {
+    "name": "Anthropic"
+  }
+}

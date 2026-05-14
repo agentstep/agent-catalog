@@ -1,0 +1,8 @@
+{
+  "name": "tabular-diligence-review",
+  "version": "1.0.0",
+  "description": "Tabular review over a data room with one row per document and every cell cited",
+  "author": {
+    "name": "Anthropic"
+  }
+}

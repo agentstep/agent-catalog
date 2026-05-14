@@ -1,0 +1,8 @@
+{
+  "name": "nprm-comment-tracker",
+  "version": "1.0.0",
+  "description": "Review open NPRM comment periods, log decisions, track deadlines",
+  "author": {
+    "name": "Anthropic"
+  }
+}

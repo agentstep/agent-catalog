@@ -1,0 +1,8 @@
+{
+  "name": "marketing-claims-checker",
+  "version": "1.0.0",
+  "description": "Flags copy that needs substantiation, reframing, or cutting",
+  "author": {
+    "name": "Anthropic"
+  }
+}

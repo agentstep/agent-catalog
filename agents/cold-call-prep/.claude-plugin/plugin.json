@@ -1,0 +1,8 @@
+{
+  "name": "cold-call-prep",
+  "version": "1.0.0",
+  "description": "Predicts professor's questions and drills them before class",
+  "author": {
+    "name": "Anthropic"
+  }
+}

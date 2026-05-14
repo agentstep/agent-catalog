@@ -1,0 +1,8 @@
+{
+  "name": "skill-registry-browser",
+  "version": "1.0.0",
+  "description": "Search watched registries for community legal skills",
+  "author": {
+    "name": "Anthropic"
+  }
+}

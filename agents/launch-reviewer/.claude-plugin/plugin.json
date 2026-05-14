@@ -1,0 +1,8 @@
+{
+  "name": "launch-reviewer",
+  "version": "1.0.0",
+  "description": "Reviews a product launch against your risk calibration",
+  "author": {
+    "name": "Anthropic"
+  }
+}

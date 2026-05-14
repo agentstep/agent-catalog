@@ -1,0 +1,8 @@
+{
+  "name": "escalation-router",
+  "version": "1.0.0",
+  "description": "Routes contract issues to the right approver and drafts the ask",
+  "author": {
+    "name": "Anthropic"
+  }
+}

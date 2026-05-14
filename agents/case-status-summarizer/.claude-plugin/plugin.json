@@ -1,0 +1,8 @@
+{
+  "name": "case-status-summarizer",
+  "version": "1.0.0",
+  "description": "Case status by audience — client, professor, or court-ready",
+  "author": {
+    "name": "Anthropic"
+  }
+}

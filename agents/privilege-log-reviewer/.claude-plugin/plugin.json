@@ -1,0 +1,8 @@
+{
+  "name": "privilege-log-reviewer",
+  "version": "1.0.0",
+  "description": "First-pass privilege log review — obvious calls + flags for attorney review",
+  "author": {
+    "name": "Anthropic"
+  }
+}

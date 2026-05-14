@@ -1,0 +1,8 @@
+{
+  "name": "deposition-prep",
+  "version": "1.0.0",
+  "description": "Builds a deposition outline tied to case theory with docs and impeachment",
+  "author": {
+    "name": "Anthropic"
+  }
+}

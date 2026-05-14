@@ -1,0 +1,8 @@
+{
+  "name": "flashcard-drillmaster",
+  "version": "1.0.0",
+  "description": "Generate or drill flashcards — Leitner-style buckets",
+  "author": {
+    "name": "Anthropic"
+  }
+}

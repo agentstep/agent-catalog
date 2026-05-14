@@ -1,0 +1,8 @@
+{
+  "name": "investigation-lead",
+  "version": "1.0.0",
+  "description": "Opens, tracks, adds to, and summarizes internal investigation matters",
+  "author": {
+    "name": "Anthropic"
+  }
+}

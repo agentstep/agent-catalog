@@ -1,0 +1,8 @@
+{
+  "name": "irac-grader",
+  "version": "1.0.0",
+  "description": "Grades your IRAC essay on structure, issue-spotting, rules, analysis",
+  "author": {
+    "name": "Anthropic"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dmca-takedown",
+  "version": "1.0.0",
+  "description": "Drafts a takedown, triages one received, or drafts a §512(g) counter-notice",
+  "author": {
+    "name": "Anthropic"
+  }
+}

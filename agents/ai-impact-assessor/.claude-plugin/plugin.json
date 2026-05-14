@@ -1,0 +1,8 @@
+{
+  "name": "ai-impact-assessor",
+  "version": "1.0.0",
+  "description": "Runs an AIA across the regimes in scope",
+  "author": {
+    "name": "Anthropic"
+  }
+}

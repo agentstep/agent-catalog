@@ -1,0 +1,8 @@
+{
+  "name": "material-contracts-schedule-builder",
+  "version": "1.0.0",
+  "description": "Builds the disclosure schedule from diligence findings against the purchase-agreement threshold",
+  "author": {
+    "name": "Anthropic"
+  }
+}

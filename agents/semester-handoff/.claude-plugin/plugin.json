@@ -1,0 +1,8 @@
+{
+  "name": "semester-handoff",
+  "version": "1.0.0",
+  "description": "End-of-semester case handoff memos — the mirror of ramp",
+  "author": {
+    "name": "Anthropic"
+  }
+}

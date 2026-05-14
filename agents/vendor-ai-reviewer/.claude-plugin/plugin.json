@@ -1,0 +1,8 @@
+{
+  "name": "vendor-ai-reviewer",
+  "version": "1.0.0",
+  "description": "Reviews vendor AI terms for training-on-data, liability, model-change, and policy gaps",
+  "author": {
+    "name": "Anthropic"
+  }
+}
